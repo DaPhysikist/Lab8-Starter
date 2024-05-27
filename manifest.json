@@ -2,7 +2,7 @@
   "name": "Lab8-Starter",
   "short_name": "Pranav Mehta",
   "description": "A simple recipes app",
-  "start_url": "https://daphysikist.github.io/Lab8-Starter/",
+  "start_url": "./",
   "display": "minimal-ui",
   "background_color": "#ffffff",  
   "theme_color": "#000000",   
