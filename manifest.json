@@ -28,12 +28,6 @@
       "type": "image/png"
     },
     {
-      "src": "assets/images/icon-192x192.png",
-      "sizes": "144x144",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
       "src": "assets/images/icons/arrow-down.png",
       "sizes": "any",
       "type": "image/png"
