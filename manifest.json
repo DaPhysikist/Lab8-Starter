@@ -34,37 +34,37 @@
       "purpose": "maskable any"
     },
     {
-      "src": "Lab8-Starter/assets/images/icons/arrow-down.png",
+      "src": "/assets/images/icons/arrow-down.png",
       "sizes": "any",
       "type": "image/png"
     },
     {
-      "src": "Lab8-Starter/assets/images/icons/0-star.svg",
+      "src": "/assets/images/icons/0-star.svg",
       "sizes": "any",
       "type": "image/svg+xml"
     },
     {
-      "src": "Lab8-Starter/assets/images/icons/1-star.svg",
+      "src": "/assets/images/icons/1-star.svg",
       "sizes": "any",
       "type": "image/svg+xml"
     },
     {
-      "src": "Lab8-Starter/assets/images/icons/2-star.svg",
+      "src": "/assets/images/icons/2-star.svg",
       "sizes": "any",
       "type": "image/svg+xml"
     },
     {
-      "src": "Lab8-Starter/assets/images/icons/3-star.svg",
+      "src": "/assets/images/icons/3-star.svg",
       "sizes": "any",
       "type": "image/svg+xml"
     },
     {
-      "src": "Lab8-Starter/assets/images/icons/4-star.svg",
+      "src": "/assets/images/icons/4-star.svg",
       "sizes": "any",
       "type": "image/svg+xml"
     },
     {
-      "src": "Lab8-Starter/assets/images/icons/5-star.svg",
+      "src": "/assets/images/icons/5-star.svg",
       "sizes": "any",
       "type": "image/svg+xml"
     }
